@@ -1,0 +1,14 @@
+add:
+  description: "Add SRR run"
+  args:
+    RunID:
+      type: "string"
+      optional: True
+      description: "Test"
+test:
+  description: "test rub"
+  args:
+    RunID:
+      type: "string"
+      optional: True
+      description: "Test"

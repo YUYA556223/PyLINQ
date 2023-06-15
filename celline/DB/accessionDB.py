@@ -1,0 +1,5 @@
+class DBStructure:
+
+
+class AccessionDBManager:
+    

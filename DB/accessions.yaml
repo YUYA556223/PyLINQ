@@ -1,0 +1,886 @@
+GSE:
+  GSE173731:
+    child_gsm_ids:
+    - accession: GSM5277549
+      title: 190726_BBB_snRNA-H3
+    - accession: GSM5277529
+      title: D20-125071
+    - accession: GSM5277526
+      title: D20-125068
+    - accession: GSM5277552
+      title: 191108_BBB_3_snRNA-F12
+    - accession: GSM5277540
+      title: L425_23_premrna
+    - accession: GSM5277532
+      title: D20-169010
+    - accession: GSM5277546
+      title: 190726_BBB_snRNA-G8
+    - accession: GSM5277520
+      title: D20-125062
+    - accession: GSM5277523
+      title: D20-125065
+    - accession: GSM5277560
+      title: D20-169008
+    - accession: GSM5277543
+      title: 190726_BBB_snRNA-G10
+    - accession: GSM5277521
+      title: D20-125063
+    - accession: GSM5277547
+      title: 190726_BBB_snRNA-G9
+    - accession: GSM5277527
+      title: D20-125069
+    - accession: GSM5277544
+      title: 190726_BBB_snRNA-G11
+    - accession: GSM5277524
+      title: D20-125066
+    - accession: GSM5277558
+      title: D20-169006
+    - accession: GSM5277555
+      title: 191108_BBB_6_snRNA-G3
+    - accession: GSM5277539
+      title: D20-169017
+    - accession: GSM5277541
+      title: L425_25_premrna
+    - accession: GSM5277559
+      title: D20-169007
+    - accession: GSM5277538
+      title: D20-169016
+    - accession: GSM5277535
+      title: D20-169013
+    - accession: GSM5277536
+      title: D20-169014
+    - accession: GSM5277542
+      title: L425_33_premrna
+    - accession: GSM5277561
+      title: D20-169009
+    - accession: GSM5277530
+      title: D20-125072
+    - accession: GSM5277522
+      title: D20-125064
+    - accession: GSM5277519
+      title: D20-125061
+    - accession: GSM5277550
+      title: 191108_BBB_1_snRNA-F10
+    - accession: GSM5277556
+      title: 191108_BBB_7_snRNA-G4
+    - accession: GSM5277553
+      title: 191108_BBB_4_snRNA-G1
+    - accession: GSM5277533
+      title: D20-169011
+    - accession: GSM5277531
+      title: D20-125073
+    - accession: GSM5277537
+      title: D20-169015
+    - accession: GSM5277557
+      title: 191108_BBB_8_snRNA-G5
+    - accession: GSM5277534
+      title: D20-169012
+    - accession: GSM5277528
+      title: D20-125070
+    - accession: GSM5277554
+      title: 191108_BBB_5_snRNA-G2
+    - accession: GSM5277548
+      title: 190726_BBB_snRNA-H2
+    - accession: GSM5277525
+      title: D20-125067
+    - accession: GSM5277545
+      title: 190726_BBB_snRNA-G12
+    - accession: GSM5277551
+      title: 191108_BBB_2_snRNA-F11
+    projna_id: PRJNA726925
+    raw_link: ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE173nnn/GSE173731/
+    runid: GSE173731
+    species:
+    - Homo sapiens
+    srp_id: SRP318206
+    summary: "Here, we perform the first single-cell characterization of the human\
+      \ cerebrovasculature using both ex vivo fresh tissue experimental enrichment\
+      \ and post mortem in silico sorting of human cortical tissue samples. We capture\
+      \ 16,681 cerebrovascular nuclei across 11 subtypes, including endothelial cells,\
+      \ mural cells, and three distinct subtypes of perivascular fibroblasts along\
+      \ the vasculature. We uncover human-specific expression patterns along the arteriovenous\
+      \ axis and determine previously uncharacterized cell type-specific markers.\
+      \ We use our newly discovered human-specific signatures to study changes in\
+      \ 3,945 cerebrovascular cells of Huntington\u2019s disease patients, which reveal\
+      \ an activation of innate immune signaling in vascular and glial cell types\
+      \ and the concomitant reduction to proteins critical for maintenance of blood-brain\
+      \ barrier integrity. Finally, our study provides a comprehensive resource molecular\
+      \ atlas of the human cerebrovasculature to guide future biological and therapeutic\
+      \ studies."
+    title: Single-cell dissection of the human brain vasculature
+GSM:
+  GSM5277519:
+    child_srr_ids:
+    - SRR14404406
+    parent_gse_id: GSE173731
+    raw_link: ''
+    runid: GSM5277519
+    species: Homo sapiens
+    srx_id: SRX10756597
+    summary: ex vivo resection
+    title: D20-125061
+  GSM5277520:
+    child_srr_ids:
+    - SRR14404407
+    parent_gse_id: GSE173731
+    raw_link: ''
+    runid: GSM5277520
+    species: Homo sapiens
+    srx_id: SRX10756598
+    summary: ex vivo resection
+    title: D20-125062
+  GSM5277521:
+    child_srr_ids:
+    - SRR14404408
+    parent_gse_id: GSE173731
+    raw_link: ''
+    runid: GSM5277521
+    species: Homo sapiens
+    srx_id: SRX10756599
+    summary: ex vivo resection
+    title: D20-125063
+  GSM5277522:
+    child_srr_ids:
+    - SRR14404409
+    parent_gse_id: GSE173731
+    raw_link: ''
+    runid: GSM5277522
+    species: Homo sapiens
+    srx_id: SRX10756600
+    summary: ex vivo resection
+    title: D20-125064
+  GSM5277523:
+    child_srr_ids:
+    - SRR14404410
+    parent_gse_id: GSE173731
+    raw_link: ''
+    runid: GSM5277523
+    species: Homo sapiens
+    srx_id: SRX10756601
+    summary: ex vivo resection
+    title: D20-125065
+  GSM5277524:
+    child_srr_ids:
+    - SRR14404411
+    parent_gse_id: GSE173731
+    raw_link: ''
+    runid: GSM5277524
+    species: Homo sapiens
+    srx_id: SRX10756602
+    summary: ex vivo resection
+    title: D20-125066
+  GSM5277525:
+    child_srr_ids:
+    - SRR14404412
+    parent_gse_id: GSE173731
+    raw_link: ''
+    runid: GSM5277525
+    species: Homo sapiens
+    srx_id: SRX10756603
+    summary: ex vivo resection
+    title: D20-125067
+  GSM5277526:
+    child_srr_ids:
+    - SRR14404413
+    parent_gse_id: GSE173731
+    raw_link: ''
+    runid: GSM5277526
+    species: Homo sapiens
+    srx_id: SRX10756604
+    summary: ex vivo resection
+    title: D20-125068
+  GSM5277527:
+    child_srr_ids:
+    - SRR14404414
+    parent_gse_id: GSE173731
+    raw_link: ''
+    runid: GSM5277527
+    species: Homo sapiens
+    srx_id: SRX10756605
+    summary: ex vivo resection
+    title: D20-125069
+  GSM5277528:
+    child_srr_ids:
+    - SRR14404415
+    parent_gse_id: GSE173731
+    raw_link: ''
+    runid: GSM5277528
+    species: Homo sapiens
+    srx_id: SRX10756606
+    summary: ex vivo resection
+    title: D20-125070
+  GSM5277529:
+    child_srr_ids:
+    - SRR14404416
+    parent_gse_id: GSE173731
+    raw_link: ''
+    runid: GSM5277529
+    species: Homo sapiens
+    srx_id: SRX10756607
+    summary: ex vivo resection
+    title: D20-125071
+  GSM5277530:
+    child_srr_ids:
+    - SRR14404417
+    parent_gse_id: GSE173731
+    raw_link: ''
+    runid: GSM5277530
+    species: Homo sapiens
+    srx_id: SRX10756608
+    summary: ex vivo resection
+    title: D20-125072
+  GSM5277531:
+    child_srr_ids:
+    - SRR14404418
+    parent_gse_id: GSE173731
+    raw_link: ''
+    runid: GSM5277531
+    species: Homo sapiens
+    srx_id: SRX10756609
+    summary: ex vivo resection
+    title: D20-125073
+  GSM5277532:
+    child_srr_ids:
+    - SRR14404419
+    parent_gse_id: GSE173731
+    raw_link: ''
+    runid: GSM5277532
+    species: Homo sapiens
+    srx_id: SRX10756610
+    summary: ex vivo resection
+    title: D20-169010
+  GSM5277533:
+    child_srr_ids:
+    - SRR14404420
+    parent_gse_id: GSE173731
+    raw_link: ''
+    runid: GSM5277533
+    species: Homo sapiens
+    srx_id: SRX10756611
+    summary: ex vivo resection
+    title: D20-169011
+  GSM5277534:
+    child_srr_ids:
+    - SRR14404421
+    parent_gse_id: GSE173731
+    raw_link: ''
+    runid: GSM5277534
+    species: Homo sapiens
+    srx_id: SRX10756612
+    summary: ex vivo resection
+    title: D20-169012
+  GSM5277535:
+    child_srr_ids:
+    - SRR14404422
+    parent_gse_id: GSE173731
+    raw_link: ''
+    runid: GSM5277535
+    species: Homo sapiens
+    srx_id: SRX10756613
+    summary: ex vivo resection
+    title: D20-169013
+  GSM5277536:
+    child_srr_ids:
+    - SRR14404423
+    parent_gse_id: GSE173731
+    raw_link: ''
+    runid: GSM5277536
+    species: Homo sapiens
+    srx_id: SRX10756614
+    summary: ex vivo resection
+    title: D20-169014
+  GSM5277537:
+    child_srr_ids:
+    - SRR14404424
+    parent_gse_id: GSE173731
+    raw_link: ''
+    runid: GSM5277537
+    species: Homo sapiens
+    srx_id: SRX10756615
+    summary: ex vivo resection
+    title: D20-169015
+  GSM5277538:
+    child_srr_ids:
+    - SRR14404425
+    parent_gse_id: GSE173731
+    raw_link: ''
+    runid: GSM5277538
+    species: Homo sapiens
+    srx_id: SRX10756616
+    summary: ex vivo resection
+    title: D20-169016
+  GSM5277539:
+    child_srr_ids:
+    - SRR14404426
+    parent_gse_id: GSE173731
+    raw_link: ''
+    runid: GSM5277539
+    species: Homo sapiens
+    srx_id: SRX10756617
+    summary: ex vivo resection
+    title: D20-169017
+  GSM5277540:
+    child_srr_ids:
+    - SRR14404427
+    parent_gse_id: GSE173731
+    raw_link: ''
+    runid: GSM5277540
+    species: Homo sapiens
+    srx_id: SRX10756618
+    summary: ex vivo resection
+    title: L425_23_premrna
+  GSM5277541:
+    child_srr_ids:
+    - SRR14404428
+    parent_gse_id: GSE173731
+    raw_link: ''
+    runid: GSM5277541
+    species: Homo sapiens
+    srx_id: SRX10756619
+    summary: ex vivo resection
+    title: L425_25_premrna
+  GSM5277542:
+    child_srr_ids:
+    - SRR14404429
+    parent_gse_id: GSE173731
+    raw_link: ''
+    runid: GSM5277542
+    species: Homo sapiens
+    srx_id: SRX10756620
+    summary: ex vivo resection
+    title: L425_33_premrna
+  GSM5277543:
+    child_srr_ids:
+    - SRR14404430
+    parent_gse_id: GSE173731
+    raw_link: ''
+    runid: GSM5277543
+    species: Homo sapiens
+    srx_id: SRX10756621
+    summary: post mortem tissue
+    title: 190726_BBB_snRNA-G10
+  GSM5277544:
+    child_srr_ids:
+    - SRR14404431
+    parent_gse_id: GSE173731
+    raw_link: ''
+    runid: GSM5277544
+    species: Homo sapiens
+    srx_id: SRX10756622
+    summary: post mortem tissue
+    title: 190726_BBB_snRNA-G11
+  GSM5277545:
+    child_srr_ids:
+    - SRR14404432
+    parent_gse_id: GSE173731
+    raw_link: ''
+    runid: GSM5277545
+    species: Homo sapiens
+    srx_id: SRX10756623
+    summary: post mortem tissue
+    title: 190726_BBB_snRNA-G12
+  GSM5277546:
+    child_srr_ids:
+    - SRR14404433
+    parent_gse_id: GSE173731
+    raw_link: ''
+    runid: GSM5277546
+    species: Homo sapiens
+    srx_id: SRX10756624
+    summary: post mortem tissue
+    title: 190726_BBB_snRNA-G8
+  GSM5277547:
+    child_srr_ids:
+    - SRR14404434
+    parent_gse_id: GSE173731
+    raw_link: ''
+    runid: GSM5277547
+    species: Homo sapiens
+    srx_id: SRX10756625
+    summary: post mortem tissue
+    title: 190726_BBB_snRNA-G9
+  GSM5277548:
+    child_srr_ids:
+    - SRR14404435
+    parent_gse_id: GSE173731
+    raw_link: ''
+    runid: GSM5277548
+    species: Homo sapiens
+    srx_id: SRX10756626
+    summary: post mortem tissue
+    title: 190726_BBB_snRNA-H2
+  GSM5277549:
+    child_srr_ids:
+    - SRR14404436
+    parent_gse_id: GSE173731
+    raw_link: ''
+    runid: GSM5277549
+    species: Homo sapiens
+    srx_id: SRX10756627
+    summary: post mortem tissue
+    title: 190726_BBB_snRNA-H3
+  GSM5277550:
+    child_srr_ids:
+    - SRR14404437
+    parent_gse_id: GSE173731
+    raw_link: ''
+    runid: GSM5277550
+    species: Homo sapiens
+    srx_id: SRX10756628
+    summary: post mortem tissue
+    title: 191108_BBB_1_snRNA-F10
+  GSM5277551:
+    child_srr_ids:
+    - SRR14404438
+    parent_gse_id: GSE173731
+    raw_link: ''
+    runid: GSM5277551
+    species: Homo sapiens
+    srx_id: SRX10756629
+    summary: post mortem tissue
+    title: 191108_BBB_2_snRNA-F11
+  GSM5277552:
+    child_srr_ids:
+    - SRR14404439
+    parent_gse_id: GSE173731
+    raw_link: ''
+    runid: GSM5277552
+    species: Homo sapiens
+    srx_id: SRX10756630
+    summary: post mortem tissue
+    title: 191108_BBB_3_snRNA-F12
+  GSM5277553:
+    child_srr_ids:
+    - SRR14404440
+    parent_gse_id: GSE173731
+    raw_link: ''
+    runid: GSM5277553
+    species: Homo sapiens
+    srx_id: SRX10756631
+    summary: post mortem tissue
+    title: 191108_BBB_4_snRNA-G1
+  GSM5277554:
+    child_srr_ids:
+    - SRR14404441
+    parent_gse_id: GSE173731
+    raw_link: ''
+    runid: GSM5277554
+    species: Homo sapiens
+    srx_id: SRX10756632
+    summary: post mortem tissue
+    title: 191108_BBB_5_snRNA-G2
+  GSM5277555:
+    child_srr_ids:
+    - SRR14404442
+    parent_gse_id: GSE173731
+    raw_link: ''
+    runid: GSM5277555
+    species: Homo sapiens
+    srx_id: SRX10756633
+    summary: post mortem tissue
+    title: 191108_BBB_6_snRNA-G3
+  GSM5277556:
+    child_srr_ids:
+    - SRR14404443
+    parent_gse_id: GSE173731
+    raw_link: ''
+    runid: GSM5277556
+    species: Homo sapiens
+    srx_id: SRX10756634
+    summary: post mortem tissue
+    title: 191108_BBB_7_snRNA-G4
+  GSM5277557:
+    child_srr_ids:
+    - SRR14404444
+    parent_gse_id: GSE173731
+    raw_link: ''
+    runid: GSM5277557
+    species: Homo sapiens
+    srx_id: SRX10756635
+    summary: post mortem tissue
+    title: 191108_BBB_8_snRNA-G5
+  GSM5277558:
+    child_srr_ids:
+    - SRR14404445
+    parent_gse_id: GSE173731
+    raw_link: ''
+    runid: GSM5277558
+    species: Homo sapiens
+    srx_id: SRX10756636
+    summary: post mortem tissue
+    title: D20-169006
+  GSM5277559:
+    child_srr_ids:
+    - SRR14404446
+    parent_gse_id: GSE173731
+    raw_link: ''
+    runid: GSM5277559
+    species: Homo sapiens
+    srx_id: SRX10756637
+    summary: post mortem tissue
+    title: D20-169007
+  GSM5277560:
+    child_srr_ids:
+    - SRR14404447
+    parent_gse_id: GSE173731
+    raw_link: ''
+    runid: GSM5277560
+    species: Homo sapiens
+    srx_id: SRX10756638
+    summary: post mortem tissue
+    title: D20-169008
+  GSM5277561:
+    child_srr_ids:
+    - SRR14404448
+    parent_gse_id: GSE173731
+    raw_link: ''
+    runid: GSM5277561
+    species: Homo sapiens
+    srx_id: SRX10756639
+    summary: post mortem tissue
+    title: D20-169009
+SRR:
+  SRR14404406:
+  - filetype: Bam
+    lane_id: null
+    parent_gsm: GSM5277519
+    path: s3://sra-pub-src-7/SRR14404406/D20_125061.bam.1
+    readtype: Unknown
+    runid: SRR14404406
+    size: 0G
+  SRR14404407:
+  - filetype: Bam
+    lane_id: null
+    parent_gsm: GSM5277520
+    path: s3://sra-pub-src-7/SRR14404407/D20_125062.bam.1
+    readtype: Unknown
+    runid: SRR14404407
+    size: 0G
+  SRR14404408:
+  - filetype: Bam
+    lane_id: null
+    parent_gsm: GSM5277521
+    path: s3://sra-pub-src-7/SRR14404408/D20_125063.bam.1
+    readtype: Unknown
+    runid: SRR14404408
+    size: 0G
+  SRR14404409:
+  - filetype: Bam
+    lane_id: null
+    parent_gsm: GSM5277522
+    path: s3://sra-pub-src-7/SRR14404409/D20_125064.bam.1
+    readtype: Unknown
+    runid: SRR14404409
+    size: 0G
+  SRR14404410:
+  - filetype: Bam
+    lane_id: null
+    parent_gsm: GSM5277523
+    path: s3://sra-pub-src-7/SRR14404410/D20_125065.bam.1
+    readtype: Unknown
+    runid: SRR14404410
+    size: 0G
+  SRR14404411:
+  - filetype: Bam
+    lane_id: null
+    parent_gsm: GSM5277524
+    path: s3://sra-pub-src-7/SRR14404411/D20_125066.bam.1
+    readtype: Unknown
+    runid: SRR14404411
+    size: 0G
+  SRR14404412:
+  - filetype: Bam
+    lane_id: null
+    parent_gsm: GSM5277525
+    path: s3://sra-pub-src-7/SRR14404412/D20_125067.bam.1
+    readtype: Unknown
+    runid: SRR14404412
+    size: 0G
+  SRR14404413:
+  - filetype: Bam
+    lane_id: null
+    parent_gsm: GSM5277526
+    path: s3://sra-pub-src-7/SRR14404413/D20_125068.bam.1
+    readtype: Unknown
+    runid: SRR14404413
+    size: 0G
+  SRR14404414:
+  - filetype: Bam
+    lane_id: null
+    parent_gsm: GSM5277527
+    path: s3://sra-pub-src-7/SRR14404414/D20_125069.bam.1
+    readtype: Unknown
+    runid: SRR14404414
+    size: 0G
+  SRR14404415:
+  - filetype: Bam
+    lane_id: null
+    parent_gsm: GSM5277528
+    path: s3://sra-pub-src-7/SRR14404415/D20_125070.bam.1
+    readtype: Unknown
+    runid: SRR14404415
+    size: 0G
+  SRR14404416:
+  - filetype: Bam
+    lane_id: null
+    parent_gsm: GSM5277529
+    path: s3://sra-pub-src-7/SRR14404416/D20_125071.bam.1
+    readtype: Unknown
+    runid: SRR14404416
+    size: 0G
+  SRR14404417:
+  - filetype: Bam
+    lane_id: null
+    parent_gsm: GSM5277530
+    path: s3://sra-pub-src-7/SRR14404417/D20_125072.bam.1
+    readtype: Unknown
+    runid: SRR14404417
+    size: 0G
+  SRR14404418:
+  - filetype: Bam
+    lane_id: null
+    parent_gsm: GSM5277531
+    path: s3://sra-pub-src-7/SRR14404418/D20_125073.bam.1
+    readtype: Unknown
+    runid: SRR14404418
+    size: 0G
+  SRR14404419:
+  - filetype: Bam
+    lane_id: null
+    parent_gsm: GSM5277532
+    path: s3://sra-pub-src-7/SRR14404419/D20_169010.bam.1
+    readtype: Unknown
+    runid: SRR14404419
+    size: 0G
+  SRR14404420:
+  - filetype: Bam
+    lane_id: null
+    parent_gsm: GSM5277533
+    path: s3://sra-pub-src-7/SRR14404420/D20_169011.bam.1
+    readtype: Unknown
+    runid: SRR14404420
+    size: 0G
+  SRR14404421:
+  - filetype: Bam
+    lane_id: null
+    parent_gsm: GSM5277534
+    path: s3://sra-pub-src-7/SRR14404421/D20_169012.bam.1
+    readtype: Unknown
+    runid: SRR14404421
+    size: 0G
+  SRR14404422:
+  - filetype: Bam
+    lane_id: null
+    parent_gsm: GSM5277535
+    path: s3://sra-pub-src-7/SRR14404422/D20_169013.bam.1
+    readtype: Unknown
+    runid: SRR14404422
+    size: 0G
+  SRR14404423:
+  - filetype: Bam
+    lane_id: null
+    parent_gsm: GSM5277536
+    path: s3://sra-pub-src-7/SRR14404423/D20_169014.bam.1
+    readtype: Unknown
+    runid: SRR14404423
+    size: 0G
+  SRR14404424:
+  - filetype: Bam
+    lane_id: null
+    parent_gsm: GSM5277537
+    path: s3://sra-pub-src-7/SRR14404424/D20_169015.bam.1
+    readtype: Unknown
+    runid: SRR14404424
+    size: 0G
+  SRR14404425:
+  - filetype: Bam
+    lane_id: null
+    parent_gsm: GSM5277538
+    path: s3://sra-pub-src-7/SRR14404425/D20_169016.bam.1
+    readtype: Unknown
+    runid: SRR14404425
+    size: 0G
+  SRR14404426:
+  - filetype: Bam
+    lane_id: null
+    parent_gsm: GSM5277539
+    path: s3://sra-pub-src-7/SRR14404426/D20_169017.bam.1
+    readtype: Unknown
+    runid: SRR14404426
+    size: 0G
+  SRR14404427:
+  - filetype: Bam
+    lane_id: null
+    parent_gsm: GSM5277540
+    path: s3://sra-pub-src-7/SRR14404427/L425_23_premrna.bam.1
+    readtype: Unknown
+    runid: SRR14404427
+    size: 0G
+  SRR14404428:
+  - filetype: Bam
+    lane_id: null
+    parent_gsm: GSM5277541
+    path: s3://sra-pub-src-7/SRR14404428/L425_25_premrna.bam.1
+    readtype: Unknown
+    runid: SRR14404428
+    size: 0G
+  SRR14404429:
+  - filetype: Bam
+    lane_id: null
+    parent_gsm: GSM5277542
+    path: s3://sra-pub-src-7/SRR14404429/L425_33_premrna.bam.1
+    readtype: Unknown
+    runid: SRR14404429
+    size: 0G
+  SRR14404430:
+  - filetype: Bam
+    lane_id: null
+    parent_gsm: GSM5277543
+    path: s3://sra-pub-src-7/SRR14404430/190726_BBB_snRNA_G10.bam.1
+    readtype: Unknown
+    runid: SRR14404430
+    size: 0G
+  SRR14404431:
+  - filetype: Bam
+    lane_id: null
+    parent_gsm: GSM5277544
+    path: s3://sra-pub-src-7/SRR14404431/190726_BBB_snRNA_G11.bam.1
+    readtype: Unknown
+    runid: SRR14404431
+    size: 0G
+  SRR14404432:
+  - filetype: Bam
+    lane_id: null
+    parent_gsm: GSM5277545
+    path: s3://sra-pub-src-7/SRR14404432/190726_BBB_snRNA_G12.bam.1
+    readtype: Unknown
+    runid: SRR14404432
+    size: 0G
+  SRR14404433:
+  - filetype: Bam
+    lane_id: null
+    parent_gsm: GSM5277546
+    path: s3://sra-pub-src-7/SRR14404433/190726_BBB_snRNA_G8.bam.1
+    readtype: Unknown
+    runid: SRR14404433
+    size: 0G
+  SRR14404434:
+  - filetype: Bam
+    lane_id: null
+    parent_gsm: GSM5277547
+    path: s3://sra-pub-src-7/SRR14404434/190726_BBB_snRNA_G9.bam.1
+    readtype: Unknown
+    runid: SRR14404434
+    size: 0G
+  SRR14404435:
+  - filetype: Bam
+    lane_id: null
+    parent_gsm: GSM5277548
+    path: s3://sra-pub-src-7/SRR14404435/190726_BBB_snRNA_H2.bam.1
+    readtype: Unknown
+    runid: SRR14404435
+    size: 0G
+  SRR14404436:
+  - filetype: Bam
+    lane_id: null
+    parent_gsm: GSM5277549
+    path: s3://sra-pub-src-7/SRR14404436/190726_BBB_snRNA_H3.bam.1
+    readtype: Unknown
+    runid: SRR14404436
+    size: 0G
+  SRR14404437:
+  - filetype: Bam
+    lane_id: null
+    parent_gsm: GSM5277550
+    path: s3://sra-pub-src-7/SRR14404437/191108_BBB_1_snRNA_F10.bam.1
+    readtype: Unknown
+    runid: SRR14404437
+    size: 0G
+  SRR14404438:
+  - filetype: Bam
+    lane_id: null
+    parent_gsm: GSM5277551
+    path: s3://sra-pub-src-7/SRR14404438/191108_BBB_2_snRNA_F11.bam.1
+    readtype: Unknown
+    runid: SRR14404438
+    size: 0G
+  SRR14404439:
+  - filetype: Bam
+    lane_id: null
+    parent_gsm: GSM5277552
+    path: s3://sra-pub-src-7/SRR14404439/191108_BBB_3_snRNA_F12.bam.1
+    readtype: Unknown
+    runid: SRR14404439
+    size: 0G
+  SRR14404440:
+  - filetype: Bam
+    lane_id: null
+    parent_gsm: GSM5277553
+    path: s3://sra-pub-src-7/SRR14404440/191108_BBB_4_snRNA_G1.bam.1
+    readtype: Unknown
+    runid: SRR14404440
+    size: 0G
+  SRR14404441:
+  - filetype: Bam
+    lane_id: null
+    parent_gsm: GSM5277554
+    path: s3://sra-pub-src-7/SRR14404441/191108_BBB_5_snRNA_G2.bam.1
+    readtype: Unknown
+    runid: SRR14404441
+    size: 0G
+  SRR14404442:
+  - filetype: Bam
+    lane_id: null
+    parent_gsm: GSM5277555
+    path: s3://sra-pub-src-7/SRR14404442/191108_BBB_6_snRNA_G3.bam.1
+    readtype: Unknown
+    runid: SRR14404442
+    size: 0G
+  SRR14404443:
+  - filetype: Bam
+    lane_id: null
+    parent_gsm: GSM5277556
+    path: s3://sra-pub-src-7/SRR14404443/191108_BBB_7_snRNA_G4.bam.1
+    readtype: Unknown
+    runid: SRR14404443
+    size: 0G
+  SRR14404444:
+  - filetype: Bam
+    lane_id: null
+    parent_gsm: GSM5277557
+    path: s3://sra-pub-src-7/SRR14404444/191108_BBB_8_snRNA_G5.bam.1
+    readtype: Unknown
+    runid: SRR14404444
+    size: 0G
+  SRR14404445:
+  - filetype: Bam
+    lane_id: null
+    parent_gsm: GSM5277558
+    path: s3://sra-pub-src-7/SRR14404445/D20_169006.bam.1
+    readtype: Unknown
+    runid: SRR14404445
+    size: 0G
+  SRR14404446:
+  - filetype: Bam
+    lane_id: null
+    parent_gsm: GSM5277559
+    path: s3://sra-pub-src-7/SRR14404446/D20_169007.bam.1
+    readtype: Unknown
+    runid: SRR14404446
+    size: 0G
+  SRR14404447:
+  - filetype: Bam
+    lane_id: null
+    parent_gsm: GSM5277560
+    path: s3://sra-pub-src-7/SRR14404447/D20_169008.bam.1
+    readtype: Unknown
+    runid: SRR14404447
+    size: 0G
+  SRR14404448:
+  - filetype: Bam
+    lane_id: null
+    parent_gsm: GSM5277561
+    path: s3://sra-pub-src-7/SRR14404448/D20_169009.bam.1
+    readtype: Unknown
+    runid: SRR14404448
+    size: 0G

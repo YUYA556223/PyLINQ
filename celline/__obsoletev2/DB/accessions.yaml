@@ -1,0 +1,885 @@
+GSE:
+  GSE173731:
+    child_gsm_ids:
+    - accession: GSM5277549
+      title: 190726_BBB_snRNA-H3
+    - accession: GSM5277529
+      title: D20-125071
+    - accession: GSM5277526
+      title: D20-125068
+    - accession: GSM5277532
+      title: D20-169010
+    - accession: GSM5277552
+      title: 191108_BBB_3_snRNA-F12
+    - accession: GSM5277540
+      title: L425_23_premrna
+    - accession: GSM5277546
+      title: 190726_BBB_snRNA-G8
+    - accession: GSM5277520
+      title: D20-125062
+    - accession: GSM5277523
+      title: D20-125065
+    - accession: GSM5277543
+      title: 190726_BBB_snRNA-G10
+    - accession: GSM5277560
+      title: D20-169008
+    - accession: GSM5277527
+      title: D20-125069
+    - accession: GSM5277524
+      title: D20-125066
+    - accession: GSM5277521
+      title: D20-125063
+    - accession: GSM5277558
+      title: D20-169006
+    - accession: GSM5277555
+      title: 191108_BBB_6_snRNA-G3
+    - accession: GSM5277547
+      title: 190726_BBB_snRNA-G9
+    - accession: GSM5277544
+      title: 190726_BBB_snRNA-G11
+    - accession: GSM5277539
+      title: D20-169017
+    - accession: GSM5277541
+      title: L425_25_premrna
+    - accession: GSM5277559
+      title: D20-169007
+    - accession: GSM5277538
+      title: D20-169016
+    - accession: GSM5277535
+      title: D20-169013
+    - accession: GSM5277536
+      title: D20-169014
+    - accession: GSM5277542
+      title: L425_33_premrna
+    - accession: GSM5277561
+      title: D20-169009
+    - accession: GSM5277530
+      title: D20-125072
+    - accession: GSM5277522
+      title: D20-125064
+    - accession: GSM5277519
+      title: D20-125061
+    - accession: GSM5277556
+      title: 191108_BBB_7_snRNA-G4
+    - accession: GSM5277553
+      title: 191108_BBB_4_snRNA-G1
+    - accession: GSM5277533
+      title: D20-169011
+    - accession: GSM5277550
+      title: 191108_BBB_1_snRNA-F10
+    - accession: GSM5277531
+      title: D20-125073
+    - accession: GSM5277537
+      title: D20-169015
+    - accession: GSM5277557
+      title: 191108_BBB_8_snRNA-G5
+    - accession: GSM5277554
+      title: 191108_BBB_5_snRNA-G2
+    - accession: GSM5277534
+      title: D20-169012
+    - accession: GSM5277548
+      title: 190726_BBB_snRNA-H2
+    - accession: GSM5277528
+      title: D20-125070
+    - accession: GSM5277525
+      title: D20-125067
+    - accession: GSM5277545
+      title: 190726_BBB_snRNA-G12
+    - accession: GSM5277551
+      title: 191108_BBB_2_snRNA-F11
+    id: GSE173731
+    projna_id: PRJNA726925
+    raw_link: ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE173nnn/GSE173731/
+    species: Homo sapiens
+    srp_id: SRP318206
+    summary: "Here, we perform the first single-cell characterization of the human\
+      \ cerebrovasculature using both ex vivo fresh tissue experimental enrichment\
+      \ and post mortem in silico sorting of human cortical tissue samples. We capture\
+      \ 16,681 cerebrovascular nuclei across 11 subtypes, including endothelial cells,\
+      \ mural cells, and three distinct subtypes of perivascular fibroblasts along\
+      \ the vasculature. We uncover human-specific expression patterns along the arteriovenous\
+      \ axis and determine previously uncharacterized cell type-specific markers.\
+      \ We use our newly discovered human-specific signatures to study changes in\
+      \ 3,945 cerebrovascular cells of Huntington\u2019s disease patients, which reveal\
+      \ an activation of innate immune signaling in vascular and glial cell types\
+      \ and the concomitant reduction to proteins critical for maintenance of blood-brain\
+      \ barrier integrity. Finally, our study provides a comprehensive resource molecular\
+      \ atlas of the human cerebrovasculature to guide future biological and therapeutic\
+      \ studies."
+    title: Single-cell dissection of the human brain vasculature
+  GSE174367:
+    child_gsm_ids:
+    - accession: GSM5292880
+      title: Sample-101 (Total Bulk RNA-seq)
+    - accession: GSM5292983
+      title: Sample-20 (Total Bulk RNA-seq)
+    - accession: GSM5292863
+      title: Sample-37 (snATAC-seq)
+    - accession: GSM5293066
+      title: Sample-98 (Total Bulk RNA-seq)
+    - accession: GSM5292900
+      title: Sample-12 (Total Bulk RNA-seq)
+    - accession: GSM5293029
+      title: Sample-62 (Total Bulk RNA-seq)
+    - accession: GSM5292946
+      title: Sample-165 (Total Bulk RNA-seq)
+    - accession: GSM5293049
+      title: Sample-81 (Total Bulk RNA-seq)
+    - accession: GSM5292966
+      title: Sample-185 (Total Bulk RNA-seq)
+    - accession: GSM5292883
+      title: Sample-104 (Total Bulk RNA-seq)
+    - accession: GSM5293003
+      title: Sample-37 (Total Bulk RNA-seq)
+    - accession: GSM5292920
+      title: Sample-139 (Total Bulk RNA-seq)
+    - accession: GSM5292986
+      title: Sample-202 (Total Bulk RNA-seq)
+    - accession: GSM5292903
+      title: Sample-122 (Total Bulk RNA-seq)
+    - accession: GSM5293023
+      title: Sample-57 (Total Bulk RNA-seq)
+    - accession: GSM5292940
+      title: Sample-16 (Total Bulk RNA-seq)
+    - accession: GSM5292857
+      title: Sample-101 (snATAC-seq)
+    - accession: GSM5292923
+      title: Sample-142 (Total Bulk RNA-seq)
+    - accession: GSM5292877
+      title: Sample-1 (Total Bulk RNA-seq)
+    - accession: GSM5292840
+      title: Sample-17 (snRNA-seq)
+    - accession: GSM5293043
+      title: Sample-76 (Total Bulk RNA-seq)
+    - accession: GSM5292960
+      title: Sample-178 (Total Bulk RNA-seq)
+    - accession: GSM5293006
+      title: Sample-40 (Total Bulk RNA-seq)
+    - accession: GSM5293026
+      title: Sample-6 (Total Bulk RNA-seq)
+    - accession: GSM5292943
+      title: Sample-162 (Total Bulk RNA-seq)
+    - accession: GSM5292897
+      title: Sample-117 (Total Bulk RNA-seq)
+    - accession: GSM5292860
+      title: Sample-22 (snATAC-seq)
+    - accession: GSM5293046
+      title: Sample-79 (Total Bulk RNA-seq)
+    - accession: GSM5292963
+      title: Sample-180 (Total Bulk RNA-seq)
+    - accession: GSM5293000
+      title: Sample-34 (Total Bulk RNA-seq)
+    - accession: GSM5293037
+      title: Sample-70 (Total Bulk RNA-seq)
+    - accession: GSM5292917
+      title: Sample-136 (Total Bulk RNA-seq)
+    - accession: GSM5292954
+      title: Sample-172 (Total Bulk RNA-seq)
+    - accession: GSM5292871
+      title: Sample-82 (snATAC-seq)
+    - accession: GSM5292891
+      title: Sample-111 (Total Bulk RNA-seq)
+    - accession: GSM5293020
+      title: Sample-53 (Total Bulk RNA-seq)
+    - accession: GSM5292974
+      title: Sample-192 (Total Bulk RNA-seq)
+    - accession: GSM5293057
+      title: Sample-9 (Total Bulk RNA-seq)
+    - accession: GSM5292937
+      title: Sample-156 (Total Bulk RNA-seq)
+    - accession: GSM5292854
+      title: Sample-82 (snRNA-seq)
+    - accession: GSM5292957
+      title: Sample-175 (Total Bulk RNA-seq)
+    - accession: GSM5292874
+      title: Sample-43 (snATAC-seq)
+    - accession: GSM5292994
+      title: Sample-28 (Total Bulk RNA-seq)
+    - accession: GSM5292911
+      title: Sample-130 (Total Bulk RNA-seq)
+    - accession: GSM5293040
+      title: Sample-73 (Total Bulk RNA-seq)
+    - accession: GSM5292848
+      title: Sample-46 (snRNA-seq)
+    - accession: GSM5293060
+      title: Sample-92 (Total Bulk RNA-seq)
+    - accession: GSM5292977
+      title: Sample-195 (Total Bulk RNA-seq)
+    - accession: GSM5292894
+      title: Sample-114 (Total Bulk RNA-seq)
+    - accession: GSM5293014
+      title: Sample-48 (Total Bulk RNA-seq)
+    - accession: GSM5292931
+      title: Sample-150 (Total Bulk RNA-seq)
+    - accession: GSM5292914
+      title: Sample-133 (Total Bulk RNA-seq)
+    - accession: GSM5292997
+      title: Sample-31 (Total Bulk RNA-seq)
+    - accession: GSM5293017
+      title: Sample-50 (Total Bulk RNA-seq)
+    - accession: GSM5292851
+      title: Sample-52 (snRNA-seq)
+    - accession: GSM5292934
+      title: Sample-153 (Total Bulk RNA-seq)
+    - accession: GSM5293063
+      title: Sample-95 (Total Bulk RNA-seq)
+    - accession: GSM5292980
+      title: Sample-198 (Total Bulk RNA-seq)
+    - accession: GSM5293001
+      title: Sample-35 (Total Bulk RNA-seq)
+    - accession: GSM5293038
+      title: Sample-71 (Total Bulk RNA-seq)
+    - accession: GSM5292918
+      title: Sample-137 (Total Bulk RNA-seq)
+    - accession: GSM5292872
+      title: Sample-90 (snATAC-seq)
+    - accession: GSM5292955
+      title: Sample-173 (Total Bulk RNA-seq)
+    - accession: GSM5292938
+      title: Sample-158 (Total Bulk RNA-seq)
+    - accession: GSM5292975
+      title: Sample-193 (Total Bulk RNA-seq)
+    - accession: GSM5292855
+      title: Sample-90 (snRNA-seq)
+    - accession: GSM5292892
+      title: Sample-112 (Total Bulk RNA-seq)
+    - accession: GSM5293021
+      title: Sample-54 (Total Bulk RNA-seq)
+    - accession: GSM5293041
+      title: Sample-74 (Total Bulk RNA-seq)
+    - accession: GSM5292875
+      title: Sample-45 (snATAC-seq)
+    - accession: GSM5292958
+      title: Sample-176 (Total Bulk RNA-seq)
+    - accession: GSM5292978
+      title: Sample-196 (Total Bulk RNA-seq)
+    - accession: GSM5292941
+      title: Sample-160 (Total Bulk RNA-seq)
+    - accession: GSM5293061
+      title: Sample-93 (Total Bulk RNA-seq)
+    - accession: GSM5293024
+      title: Sample-58 (Total Bulk RNA-seq)
+    - accession: GSM5292895
+      title: Sample-115 (Total Bulk RNA-seq)
+    - accession: GSM5292878
+      title: Sample-10 (Total Bulk RNA-seq)
+    - accession: GSM5293044
+      title: Sample-77 (Total Bulk RNA-seq)
+    - accession: GSM5292961
+      title: Sample-179 (Total Bulk RNA-seq)
+    - accession: GSM5292998
+      title: Sample-32 (Total Bulk RNA-seq)
+    - accession: GSM5292915
+      title: Sample-134 (Total Bulk RNA-seq)
+    - accession: GSM5292898
+      title: Sample-118 (Total Bulk RNA-seq)
+    - accession: GSM5293064
+      title: Sample-96 (Total Bulk RNA-seq)
+    - accession: GSM5292981
+      title: Sample-199 (Total Bulk RNA-seq)
+    - accession: GSM5293018
+      title: Sample-51 (Total Bulk RNA-seq)
+    - accession: GSM5292935
+      title: Sample-154 (Total Bulk RNA-seq)
+    - accession: GSM5292852
+      title: Sample-58 (snRNA-seq)
+    - accession: GSM5292909
+      title: Sample-129 (Total Bulk RNA-seq)
+    - accession: GSM5292846
+      title: Sample-43 (snRNA-seq)
+    - accession: GSM5292992
+      title: Sample-26 (Total Bulk RNA-seq)
+    - accession: GSM5293058
+      title: Sample-90 (Total Bulk RNA-seq)
+    - accession: GSM5292929
+      title: Sample-148 (Total Bulk RNA-seq)
+    - accession: GSM5292949
+      title: Sample-168 (Total Bulk RNA-seq)
+    - accession: GSM5292866
+      title: Sample-47 (snATAC-seq)
+    - accession: GSM5293012
+      title: Sample-46 (Total Bulk RNA-seq)
+    - accession: GSM5293032
+      title: Sample-65 (Total Bulk RNA-seq)
+    - accession: GSM5292912
+      title: Sample-131 (Total Bulk RNA-seq)
+    - accession: GSM5292995
+      title: Sample-3 (Total Bulk RNA-seq)
+    - accession: GSM5293052
+      title: Sample-85 (Total Bulk RNA-seq)
+    - accession: GSM5292849
+      title: Sample-47 (snRNA-seq)
+    - accession: GSM5293015
+      title: Sample-49 (Total Bulk RNA-seq)
+    - accession: GSM5292932
+      title: Sample-151 (Total Bulk RNA-seq)
+    - accession: GSM5292969
+      title: Sample-188 (Total Bulk RNA-seq)
+    - accession: GSM5292886
+      title: Sample-107 (Total Bulk RNA-seq)
+    - accession: GSM5292869
+      title: Sample-58 (snATAC-seq)
+    - accession: GSM5292906
+      title: Sample-125 (Total Bulk RNA-seq)
+    - accession: GSM5292972
+      title: Sample-190 (Total Bulk RNA-seq)
+    - accession: GSM5293035
+      title: Sample-69 (Total Bulk RNA-seq)
+    - accession: GSM5292952
+      title: Sample-170 (Total Bulk RNA-seq)
+    - accession: GSM5292843
+      title: Sample-27 (snRNA-seq)
+    - accession: GSM5292989
+      title: Sample-23 (Total Bulk RNA-seq)
+    - accession: GSM5293055
+      title: Sample-88 (Total Bulk RNA-seq)
+    - accession: GSM5292926
+      title: Sample-145 (Total Bulk RNA-seq)
+    - accession: GSM5293009
+      title: Sample-43 (Total Bulk RNA-seq)
+    - accession: GSM5292889
+      title: Sample-11 (Total Bulk RNA-seq)
+    - accession: GSM5293019
+      title: Sample-52 (Total Bulk RNA-seq)
+    - accession: GSM5292973
+      title: Sample-191 (Total Bulk RNA-seq)
+    - accession: GSM5292890
+      title: Sample-110 (Total Bulk RNA-seq)
+    - accession: GSM5293056
+      title: Sample-89 (Total Bulk RNA-seq)
+    - accession: GSM5293039
+      title: Sample-72 (Total Bulk RNA-seq)
+    - accession: GSM5292956
+      title: Sample-174 (Total Bulk RNA-seq)
+    - accession: GSM5292873
+      title: Sample-100 (snATAC-seq)
+    - accession: GSM5292993
+      title: Sample-27 (Total Bulk RNA-seq)
+    - accession: GSM5292910
+      title: Sample-13 (Total Bulk RNA-seq)
+    - accession: GSM5292930
+      title: Sample-149 (Total Bulk RNA-seq)
+    - accession: GSM5293013
+      title: Sample-47 (Total Bulk RNA-seq)
+    - accession: GSM5292847
+      title: Sample-45 (snRNA-seq)
+    - accession: GSM5293033
+      title: Sample-66 (Total Bulk RNA-seq)
+    - accession: GSM5293059
+      title: Sample-91 (Total Bulk RNA-seq)
+    - accession: GSM5292893
+      title: Sample-113 (Total Bulk RNA-seq)
+    - accession: GSM5292976
+      title: Sample-194 (Total Bulk RNA-seq)
+    - accession: GSM5292913
+      title: Sample-132 (Total Bulk RNA-seq)
+    - accession: GSM5292950
+      title: Sample-169 (Total Bulk RNA-seq)
+    - accession: GSM5292933
+      title: Sample-152 (Total Bulk RNA-seq)
+    - accession: GSM5292850
+      title: Sample-50 (snRNA-seq)
+    - accession: GSM5292996
+      title: Sample-30 (Total Bulk RNA-seq)
+    - accession: GSM5293016
+      title: Sample-5 (Total Bulk RNA-seq)
+    - accession: GSM5292867
+      title: Sample-50 (snATAC-seq)
+    - accession: GSM5293053
+      title: Sample-86 (Total Bulk RNA-seq)
+    - accession: GSM5293036
+      title: Sample-7 (Total Bulk RNA-seq)
+    - accession: GSM5293010
+      title: Sample-44 (Total Bulk RNA-seq)
+    - accession: GSM5292927
+      title: Sample-146 (Total Bulk RNA-seq)
+    - accession: GSM5292881
+      title: Sample-102 (Total Bulk RNA-seq)
+    - accession: GSM5292953
+      title: Sample-171 (Total Bulk RNA-seq)
+    - accession: GSM5292870
+      title: Sample-66 (snATAC-seq)
+    - accession: GSM5292844
+      title: Sample-33 (snRNA-seq)
+    - accession: GSM5292970
+      title: Sample-189 (Total Bulk RNA-seq)
+    - accession: GSM5292887
+      title: Sample-108 (Total Bulk RNA-seq)
+    - accession: GSM5293030
+      title: Sample-63 (Total Bulk RNA-seq)
+    - accession: GSM5292901
+      title: Sample-120 (Total Bulk RNA-seq)
+    - accession: GSM5293067
+      title: Sample-99 (Total Bulk RNA-seq)
+    - accession: GSM5293004
+      title: Sample-38 (Total Bulk RNA-seq)
+    - accession: GSM5292984
+      title: Sample-200 (Total Bulk RNA-seq)
+    - accession: GSM5293047
+      title: Sample-8 (Total Bulk RNA-seq)
+    - accession: GSM5292964
+      title: Sample-181 (Total Bulk RNA-seq)
+    - accession: GSM5292904
+      title: Sample-123 (Total Bulk RNA-seq)
+    - accession: GSM5292884
+      title: Sample-105 (Total Bulk RNA-seq)
+    - accession: GSM5292987
+      title: Sample-21 (Total Bulk RNA-seq)
+    - accession: GSM5292947
+      title: Sample-166 (Total Bulk RNA-seq)
+    - accession: GSM5292921
+      title: Sample-14 (Total Bulk RNA-seq)
+    - accession: GSM5292838
+      title: Sample-100 (snRNA-seq)
+    - accession: GSM5293050
+      title: Sample-82 (Total Bulk RNA-seq)
+    - accession: GSM5292864
+      title: Sample-40 (snATAC-seq)
+    - accession: GSM5293007
+      title: Sample-41 (Total Bulk RNA-seq)
+    - accession: GSM5292967
+      title: Sample-186 (Total Bulk RNA-seq)
+    - accession: GSM5292858
+      title: Sample-17 (snATAC-seq)
+    - accession: GSM5292990
+      title: Sample-24 (Total Bulk RNA-seq)
+    - accession: GSM5292907
+      title: Sample-126 (Total Bulk RNA-seq)
+    - accession: GSM5292924
+      title: Sample-143 (Total Bulk RNA-seq)
+    - accession: GSM5292841
+      title: Sample-19 (snRNA-seq)
+    - accession: GSM5292991
+      title: Sample-25 (Total Bulk RNA-seq)
+    - accession: GSM5292945
+      title: Sample-164 (Total Bulk RNA-seq)
+    - accession: GSM5292862
+      title: Sample-33 (snATAC-seq)
+    - accession: GSM5292965
+      title: Sample-182 (Total Bulk RNA-seq)
+    - accession: GSM5292882
+      title: Sample-103 (Total Bulk RNA-seq)
+    - accession: GSM5293027
+      title: Sample-60 (Total Bulk RNA-seq)
+    - accession: GSM5292944
+      title: Sample-163 (Total Bulk RNA-seq)
+    - accession: GSM5293048
+      title: Sample-80 (Total Bulk RNA-seq)
+    - accession: GSM5292908
+      title: Sample-128 (Total Bulk RNA-seq)
+    - accession: GSM5292865
+      title: Sample-46 (snATAC-seq)
+    - accession: GSM5292861
+      title: Sample-27 (snATAC-seq)
+    - accession: GSM5293011
+      title: Sample-45 (Total Bulk RNA-seq)
+    - accession: GSM5293028
+      title: Sample-61 (Total Bulk RNA-seq)
+    - accession: GSM5292885
+      title: Sample-106 (Total Bulk RNA-seq)
+    - accession: GSM5292928
+      title: Sample-147 (Total Bulk RNA-seq)
+    - accession: GSM5293051
+      title: Sample-83 (Total Bulk RNA-seq)
+    - accession: GSM5292968
+      title: Sample-187 (Total Bulk RNA-seq)
+    - accession: GSM5292845
+      title: Sample-37 (snRNA-seq)
+    - accession: GSM5292988
+      title: Sample-22 (Total Bulk RNA-seq)
+    - accession: GSM5292868
+      title: Sample-52 (snATAC-seq)
+    - accession: GSM5293031
+      title: Sample-64 (Total Bulk RNA-seq)
+    - accession: GSM5292948
+      title: Sample-167 (Total Bulk RNA-seq)
+    - accession: GSM5292888
+      title: Sample-109 (Total Bulk RNA-seq)
+    - accession: GSM5292971
+      title: Sample-19 (Total Bulk RNA-seq)
+    - accession: GSM5293034
+      title: Sample-67 (Total Bulk RNA-seq)
+    - accession: GSM5292905
+      title: Sample-124 (Total Bulk RNA-seq)
+    - accession: GSM5293008
+      title: Sample-42 (Total Bulk RNA-seq)
+    - accession: GSM5292853
+      title: Sample-66 (snRNA-seq)
+    - accession: GSM5292951
+      title: Sample-17 (Total Bulk RNA-seq)
+    - accession: GSM5293065
+      title: Sample-97 (Total Bulk RNA-seq)
+    - accession: GSM5292936
+      title: Sample-155 (Total Bulk RNA-seq)
+    - accession: GSM5293054
+      title: Sample-87 (Total Bulk RNA-seq)
+    - accession: GSM5292982
+      title: Sample-2 (Total Bulk RNA-seq)
+    - accession: GSM5292899
+      title: Sample-119 (Total Bulk RNA-seq)
+    - accession: GSM5292925
+      title: Sample-144 (Total Bulk RNA-seq)
+    - accession: GSM5292842
+      title: Sample-22 (snRNA-seq)
+    - accession: GSM5292985
+      title: Sample-201 (Total Bulk RNA-seq)
+    - accession: GSM5292856
+      title: Sample-96 (snRNA-seq)
+    - accession: GSM5293002
+      title: Sample-36 (Total Bulk RNA-seq)
+    - accession: GSM5292919
+      title: Sample-138 (Total Bulk RNA-seq)
+    - accession: GSM5293022
+      title: Sample-56 (Total Bulk RNA-seq)
+    - accession: GSM5292939
+      title: Sample-159 (Total Bulk RNA-seq)
+    - accession: GSM5292959
+      title: Sample-177 (Total Bulk RNA-seq)
+    - accession: GSM5293062
+      title: Sample-94 (Total Bulk RNA-seq)
+    - accession: GSM5292859
+      title: Sample-19 (snATAC-seq)
+    - accession: GSM5292839
+      title: Sample-101 (snRNA-seq)
+    - accession: GSM5293042
+      title: Sample-75 (Total Bulk RNA-seq)
+    - accession: GSM5292942
+      title: Sample-161 (Total Bulk RNA-seq)
+    - accession: GSM5292902
+      title: Sample-121 (Total Bulk RNA-seq)
+    - accession: GSM5292876
+      title: Sample-96 (snATAC-seq)
+    - accession: GSM5293005
+      title: Sample-4 (Total Bulk RNA-seq)
+    - accession: GSM5292979
+      title: Sample-197 (Total Bulk RNA-seq)
+    - accession: GSM5292962
+      title: Sample-18 (Total Bulk RNA-seq)
+    - accession: GSM5292922
+      title: Sample-141 (Total Bulk RNA-seq)
+    - accession: GSM5293045
+      title: Sample-78 (Total Bulk RNA-seq)
+    - accession: GSM5292896
+      title: Sample-116 (Total Bulk RNA-seq)
+    - accession: GSM5292916
+      title: Sample-135 (Total Bulk RNA-seq)
+    - accession: GSM5293025
+      title: Sample-59 (Total Bulk RNA-seq)
+    - accession: GSM5292879
+      title: Sample-100 (Total Bulk RNA-seq)
+    - accession: GSM5292999
+      title: Sample-33 (Total Bulk RNA-seq)
+    id: GSE174367
+    projna_id: PRJNA729525
+    raw_link: ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE174nnn/GSE174367/
+    species: Homo sapiens
+    srp_id: SRP319543
+    summary: "The gene-regulatory landscape of the brain is highly dynamic in health\
+      \ and disease, coordinating a menagerie of biological processes across\xAC distinct\
+      \ cell-types. Here, we present a multi-omic single-nucleus study of 191,890\
+      \ nuclei in late-stage Alzheimer\u2019s Disease (AD), accessible through our\
+      \ intuitive web portal, profiling chromatin accessibility and gene expression\
+      \ in the same biological samples and uncovering vast cellular heterogeneity.\
+      \ We identified cell-type specific, disease-associated candidate cis-regulatory\
+      \ elements and their candidate target genes, including an oligodendrocyte-associated\
+      \ regulatory module containing links to APOE and CLU. We describe cis-regulatory\
+      \ relationships in specific cell-types at AD risk loci defined by genome wide\
+      \ association studies (GWAS), demonstrating the utility of this multi-omic single-nucleus\
+      \ approach. Trajectory analysis of glial populations identified disease-relevant\
+      \ transcription factors, like SREBF1 and their regulatory targets. Further,\
+      \ we introduce scWGCNA, a co-expression network analysis strategy robust to\
+      \ the sparsity of single-cell data, to perform a systems-level meta-analysis\
+      \ of AD transcriptomics."
+    title: "Single-nucleus chromatin accessibility and transcriptomic characterization\
+      \ of Alzheimer\u2019s Disease"
+GSM:
+  GSM5277549:
+    child_srr_ids:
+    - SRR14404436
+    id: GSM5277549
+    parent_gse_id: GSE173731
+    raw_link: ''
+    species: Homo sapiens
+    srx_id: SRX10756627
+    summary: post mortem tissue
+    title: 190726_BBB_snRNA-H3
+  GSM5292840:
+    child_srr_ids:
+    - SRR14513993
+    - SRR14513994
+    - SRR14513995
+    - SRR14513996
+    - SRR14513997
+    - SRR14513998
+    - SRR14513999
+    - SRR14514000
+    id: GSM5292840
+    parent_gse_id: GSE174367
+    raw_link: ''
+    species: Homo sapiens
+    srx_id: SRX10859618
+    summary: AD brain
+    title: Sample-17 (snRNA-seq)
+  GSM5292857:
+    child_srr_ids:
+    - SRR14514129
+    id: GSM5292857
+    parent_gse_id: GSE174367
+    raw_link: ''
+    species: Homo sapiens
+    srx_id: SRX10859635
+    summary: Control brain
+    title: Sample-101 (snATAC-seq)
+  GSM5292863:
+    child_srr_ids:
+    - SRR14514135
+    id: GSM5292863
+    parent_gse_id: GSE174367
+    raw_link: ''
+    species: Homo sapiens
+    srx_id: SRX10859641
+    summary: AD brain
+    title: Sample-37 (snATAC-seq)
+SRR:
+  SRR14404436:
+  - filetype: Bam
+    id: SRR14404436
+    lane_id: null
+    parent_gsm: GSM5277549
+    path: https://sra-pub-src-1.s3.amazonaws.com/SRR14404436/190726_BBB_snRNA_H3.bam.1
+    readtype: Unknown
+    size: 17.4G
+  SRR14513993:
+  - filetype: Fastq
+    id: SRR14513993
+    lane_id: L003
+    parent_gsm: GSM5292840
+    path: s3://sra-pub-src-10/SRR14513993/Sample-17-ACGACATT_S28_L003_I1_001.fastq.gz.1
+    readtype: I1
+    size: 0.21474609375G
+  - filetype: Fastq
+    id: SRR14513993
+    lane_id: L003
+    parent_gsm: GSM5292840
+    path: s3://sra-pub-src-10/SRR14513993/Sample-17-ACGACATT_S28_L003_R1_001.fastq.gz.1
+    readtype: R1
+    size: 1.8G
+  - filetype: Fastq
+    id: SRR14513993
+    lane_id: L003
+    parent_gsm: GSM5292840
+    path: s3://sra-pub-src-10/SRR14513993/Sample-17-ACGACATT_S28_L003_R2_001.fastq.gz.1
+    readtype: R2
+    size: 1.7G
+  SRR14513994:
+  - filetype: Fastq
+    id: SRR14513994
+    lane_id: L004
+    parent_gsm: GSM5292840
+    path: gs://sra-pub-src-16/SRR14513994/Sample-17-ACGACATT_S28_L004_I1_001.fastq.gz.1
+    readtype: I1
+    size: 0.21494140625G
+  - filetype: Fastq
+    id: SRR14513994
+    lane_id: L004
+    parent_gsm: GSM5292840
+    path: gs://sra-pub-src-9/SRR14513994/Sample-17-ACGACATT_S28_L004_R1_001.fastq.gz.1
+    readtype: R1
+    size: 1.8G
+  - filetype: Fastq
+    id: SRR14513994
+    lane_id: L004
+    parent_gsm: GSM5292840
+    path: gs://sra-pub-src-9/SRR14513994/Sample-17-ACGACATT_S28_L004_R2_001.fastq.gz.1
+    readtype: R2
+    size: 1.7G
+  SRR14513995:
+  - filetype: Fastq
+    id: SRR14513995
+    lane_id: L003
+    parent_gsm: GSM5292840
+    path: gs://sra-pub-src-8/SRR14513995/Sample-17-CACGTCGG_S27_L003_I1_001.fastq.gz.1
+    readtype: I1
+    size: 0.18994140625G
+  - filetype: Fastq
+    id: SRR14513995
+    lane_id: L003
+    parent_gsm: GSM5292840
+    path: gs://sra-pub-src-8/SRR14513995/Sample-17-CACGTCGG_S27_L003_R1_001.fastq.gz.1
+    readtype: R1
+    size: 1.8G
+  - filetype: Fastq
+    id: SRR14513995
+    lane_id: L003
+    parent_gsm: GSM5292840
+    path: gs://sra-pub-src-8/SRR14513995/Sample-17-CACGTCGG_S27_L003_R2_001.fastq.gz.1
+    readtype: R2
+    size: 1.6G
+  SRR14513996:
+  - filetype: Fastq
+    id: SRR14513996
+    lane_id: L004
+    parent_gsm: GSM5292840
+    path: gs://sra-pub-src-10/SRR14513996/Sample-17-CACGTCGG_S27_L004_R2_001.fastq.gz.1
+    readtype: R2
+    size: 1.6G
+  - filetype: Fastq
+    id: SRR14513996
+    lane_id: L004
+    parent_gsm: GSM5292840
+    path: gs://sra-pub-src-10/SRR14513996/Sample-17-CACGTCGG_S27_L004_R1_001.fastq.gz.1
+    readtype: R1
+    size: 1.8G
+  - filetype: Fastq
+    id: SRR14513996
+    lane_id: L004
+    parent_gsm: GSM5292840
+    path: gs://sra-pub-src-10/SRR14513996/Sample-17-CACGTCGG_S27_L004_I1_001.fastq.gz.1
+    readtype: I1
+    size: 0.18896484375G
+  SRR14513997:
+  - filetype: Fastq
+    id: SRR14513997
+    lane_id: L003
+    parent_gsm: GSM5292840
+    path: gs://sra-pub-src-10/SRR14513997/Sample-17-GTATGTCA_S25_L003_I1_001.fastq.gz.1
+    readtype: I1
+    size: 0.1666015625G
+  - filetype: Fastq
+    id: SRR14513997
+    lane_id: L003
+    parent_gsm: GSM5292840
+    path: gs://sra-pub-src-10/SRR14513997/Sample-17-GTATGTCA_S25_L003_R1_001.fastq.gz.1
+    readtype: R1
+    size: 1.5G
+  - filetype: Fastq
+    id: SRR14513997
+    lane_id: L003
+    parent_gsm: GSM5292840
+    path: gs://sra-pub-src-10/SRR14513997/Sample-17-GTATGTCA_S25_L003_R2_001.fastq.gz.1
+    readtype: R2
+    size: 1.4G
+  SRR14513998:
+  - filetype: Fastq
+    id: SRR14513998
+    lane_id: L004
+    parent_gsm: GSM5292840
+    path: s3://sra-pub-src-8/SRR14513998/Sample-17-GTATGTCA_S25_L004_R2_001.fastq.gz.1
+    readtype: R2
+    size: 1.4G
+  - filetype: Fastq
+    id: SRR14513998
+    lane_id: L004
+    parent_gsm: GSM5292840
+    path: s3://sra-pub-src-8/SRR14513998/Sample-17-GTATGTCA_S25_L004_R1_001.fastq.gz.1
+    readtype: R1
+    size: 1.5G
+  - filetype: Fastq
+    id: SRR14513998
+    lane_id: L004
+    parent_gsm: GSM5292840
+    path: s3://sra-pub-src-8/SRR14513998/Sample-17-GTATGTCA_S25_L004_I1_001.fastq.gz.1
+    readtype: I1
+    size: 0.1666015625G
+  SRR14513999:
+  - filetype: Fastq
+    id: SRR14513999
+    lane_id: L003
+    parent_gsm: GSM5292840
+    path: s3://sra-pub-src-14/SRR14513999/Sample-17-TGTCAGAC_S26_L003_I1_001.fastq.gz.1
+    readtype: I1
+    size: 0.1740234375G
+  - filetype: Fastq
+    id: SRR14513999
+    lane_id: L003
+    parent_gsm: GSM5292840
+    path: gs://sra-pub-src-4/SRR14513999/Sample-17-TGTCAGAC_S26_L003_R1_001.fastq.gz.1
+    readtype: R1
+    size: 1.6G
+  - filetype: Fastq
+    id: SRR14513999
+    lane_id: L003
+    parent_gsm: GSM5292840
+    path: s3://sra-pub-src-14/SRR14513999/Sample-17-TGTCAGAC_S26_L003_R2_001.fastq.gz.1
+    readtype: R2
+    size: 1.4G
+  SRR14514000:
+  - filetype: Fastq
+    id: SRR14514000
+    lane_id: L004
+    parent_gsm: GSM5292840
+    path: gs://sra-pub-src-10/SRR14514000/Sample-17-TGTCAGAC_S26_L004_I1_001.fastq.gz.1
+    readtype: I1
+    size: 0.17392578125G
+  - filetype: Fastq
+    id: SRR14514000
+    lane_id: L004
+    parent_gsm: GSM5292840
+    path: gs://sra-pub-src-10/SRR14514000/Sample-17-TGTCAGAC_S26_L004_R1_001.fastq.gz.1
+    readtype: R1
+    size: 1.6G
+  - filetype: Fastq
+    id: SRR14514000
+    lane_id: L004
+    parent_gsm: GSM5292840
+    path: gs://sra-pub-src-10/SRR14514000/Sample-17-TGTCAGAC_S26_L004_R2_001.fastq.gz.1
+    readtype: R2
+    size: 1.4G
+  SRR14514129:
+  - filetype: Fastq
+    id: SRR14514129
+    lane_id: L001
+    parent_gsm: GSM5292857
+    path: s3://sra-pub-src-10/SRR14514129/Sample101_S15_L001_R3_001.fastq.1
+    readtype: Unknown
+    size: 27.2G
+  - filetype: Fastq
+    id: SRR14514129
+    lane_id: L001
+    parent_gsm: GSM5292857
+    path: s3://sra-pub-src-9/SRR14514129/Sample101_S15_L001_R2_001.fastq.1
+    readtype: R2
+    size: 15.6G
+  - filetype: Fastq
+    id: SRR14514129
+    lane_id: L001
+    parent_gsm: GSM5292857
+    path: s3://sra-pub-src-10/SRR14514129/Sample101_S15_L001_R1_001.fastq.1
+    readtype: R1
+    size: 27.2G
+  - filetype: Fastq
+    id: SRR14514129
+    lane_id: L001
+    parent_gsm: GSM5292857
+    path: s3://sra-pub-src-9/SRR14514129/Sample101_S15_L001_I1_001.fastq.1
+    readtype: I1
+    size: 12.9G
+  SRR14514135:
+  - filetype: Fastq
+    id: SRR14514135
+    lane_id: L001
+    parent_gsm: GSM5292863
+    path: s3://sra-pub-src-12/SRR14514135/Sample37_S2_L001_I1_001.fastq.1
+    readtype: I1
+    size: 13.4G
+  - filetype: Fastq
+    id: SRR14514135
+    lane_id: L001
+    parent_gsm: GSM5292863
+    path: s3://sra-pub-src-12/SRR14514135/Sample37_S2_L001_R1_001.fastq.1
+    readtype: R1
+    size: 28.3G
+  - filetype: Fastq
+    id: SRR14514135
+    lane_id: L001
+    parent_gsm: GSM5292863
+    path: s3://sra-pub-src-12/SRR14514135/Sample37_S2_L001_R2_001.fastq.1
+    readtype: R2
+    size: 16.2G
+  - filetype: Fastq
+    id: SRR14514135
+    lane_id: L001
+    parent_gsm: GSM5292863
+    path: s3://sra-pub-src-12/SRR14514135/Sample37_S2_L001_R3_001.fastq.1
+    readtype: Unknown
+    size: 28.3G
